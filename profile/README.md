@@ -1,8 +1,12 @@
-## Hospito 
-
-![Hospito](https://cdn.hospito.in/webassets/b43bfa3df001ae4f0027823169bb85a8.png)
-
-- [Hospito](https://hospito.in)
-- [Hospito Lab](https://labs.hospito.in)
-- [Hospito Blog](https://blog.hospito.in)
-- [Hospito Blood Bank](https://bloodbank.hospito.in/BloodBank)
+<p align="center">
+<a href="https://www.hospito.in/?utm_source=github"><img align="center" src="https://user-images.githubusercontent.com/57860123/209962103-cd4d010c-c9b4-41a1-b7a2-d84e3f60ba07.png" width="auto" height="300" alt="Hospito"></a>
+</p>
+<h3 align="center">
+  <a href="https://hospito.in">Hospito</a>
+•
+<a href="https://labs.hospito.in">Hospito Lab</a>
+•
+<a href="https://blog.hospito.in">Hospito Blogs</a>
+•
+<a href="https://bloodbank.hospito.in/BloodBank">Hospito Blood Bank</a>
+</h3>
